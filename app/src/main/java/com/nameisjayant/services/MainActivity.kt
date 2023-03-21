@@ -13,8 +13,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.nameisjayant.services.broadcast.AirplaneModeScreen
 import com.nameisjayant.services.broadcast.SendBroadCastDataScreen
 import com.nameisjayant.services.notification.ShowNotificationScreen
-import com.nameisjayant.services.screen.CounterAppWithService
-import com.nameisjayant.services.screen.CounterAppWithoutService
+import com.nameisjayant.services.service.screen.CounterAppWithService
+import com.nameisjayant.services.service.screen.CounterAppWithoutService
 import com.nameisjayant.services.ui.theme.ServicesTheme
 
 class MainActivity : ComponentActivity() {

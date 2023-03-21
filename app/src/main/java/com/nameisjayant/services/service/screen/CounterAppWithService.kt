@@ -1,4 +1,4 @@
-package com.nameisjayant.services.screen
+package com.nameisjayant.services.service.screen
 
 import android.content.BroadcastReceiver
 import android.content.Context

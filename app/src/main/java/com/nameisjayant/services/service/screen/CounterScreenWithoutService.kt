@@ -1,4 +1,4 @@
-package com.nameisjayant.services.screen
+package com.nameisjayant.services.service.screen
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
